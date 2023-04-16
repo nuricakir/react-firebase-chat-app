@@ -1,20 +1,16 @@
 # Üretken Akademi Yazılımcı Fabrikası Final Projesi 
 
-![2023-04-16 (1)](https://user-images.githubusercontent.com/112883476/232308351-2de91500-d363-488c-a319-36f64ce70c12.png)
+Demo Link: https://chatfly.netlify.app/
+
+![2023-04-16 (6)](https://user-images.githubusercontent.com/112883476/232308842-eeac2ba4-a1c8-4564-8c9f-47d7f8133a7c.png)
+![2023-04-16 (7)](https://user-images.githubusercontent.com/112883476/232308893-10b813bd-a37f-4936-9602-a40be9c14a3b.png)
 
 
-![2023-04-16 (2)](https://user-images.githubusercontent.com/112883476/232308378-d645f69d-2eac-405a-9324-2e02238021bb.png)
+![2023-04-16 (19)](https://user-images.githubusercontent.com/112883476/232309169-f688d699-feaa-4389-99f6-e794aa65c195.png)
 
+![2023-04-16 (16)](https://user-images.githubusercontent.com/112883476/232309057-729437ff-a949-49f8-a59d-84f9125c8da7.png)
+![2023-04-16 (18)](https://user-images.githubusercontent.com/112883476/232309103-f6a6fd5e-3374-4096-9c0b-c1fc7702efa7.png)
 
-![2023-04-16 (12)](https://user-images.githubusercontent.com/112883476/232308621-f8f5e4e9-2d2e-4263-b073-cf2b0961b4f0.png)
-
-![2023-04-16 (9)](https://user-images.githubusercontent.com/112883476/232308645-7d945f95-8c37-4cf5-9eeb-b8df1864e57f.png)
-
-![2023-04-16 (10)](https://user-images.githubusercontent.com/112883476/232308686-63e70459-c2c3-48bc-bf23-47a3d321fdf9.png)
-![2023-04-16 (12)](https://user-images.githubusercontent.com/112883476/232308748-f8a7b829-dfc7-4c11-b5f8-2d557d5a5b7a.png)
-![2023-04-16 (13)](https://user-images.githubusercontent.com/112883476/232308749-8f69da39-32db-4fad-8da9-7bd5db287db2.png)
-![2023-04-16 (14)](https://user-images.githubusercontent.com/112883476/232308750-98430380-825e-4ccf-94d2-402d2565e1cd.png)
-![2023-04-16](https://user-images.githubusercontent.com/112883476/232308752-3104dcb9-3972-420c-b3a2-df4c0e22ccdc.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
