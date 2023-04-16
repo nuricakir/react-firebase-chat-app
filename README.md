@@ -1,5 +1,17 @@
 # Üretken Akademi Yazılımcı Fabrikası Final Projesi 
 
+![2023-04-16 (1)](https://user-images.githubusercontent.com/112883476/232308351-2de91500-d363-488c-a319-36f64ce70c12.png)
+
+
+![2023-04-16 (2)](https://user-images.githubusercontent.com/112883476/232308378-d645f69d-2eac-405a-9324-2e02238021bb.png)
+
+
+![2023-04-16 (12)](https://user-images.githubusercontent.com/112883476/232308621-f8f5e4e9-2d2e-4263-b073-cf2b0961b4f0.png)
+
+![2023-04-16 (9)](https://user-images.githubusercontent.com/112883476/232308645-7d945f95-8c37-4cf5-9eeb-b8df1864e57f.png)
+
+![2023-04-16 (10)](https://user-images.githubusercontent.com/112883476/232308686-63e70459-c2c3-48bc-bf23-47a3d321fdf9.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
