@@ -1,6 +1,11 @@
 # Üretken Akademi Yazılımcı Fabrikası Final Projesi 
 
+
 Demo Link: https://chatfly.netlify.app/ 
+
+
+https://user-images.githubusercontent.com/112883476/233089971-8ce915a2-c8b2-4709-8464-f58d4e60ea35.mp4
+
 
 ![2023-04-16 (6)](https://user-images.githubusercontent.com/112883476/232308842-eeac2ba4-a1c8-4564-8c9f-47d7f8133a7c.png)
 ![2023-04-16 (7)](https://user-images.githubusercontent.com/112883476/232308893-10b813bd-a37f-4936-9602-a40be9c14a3b.png)
@@ -11,6 +16,7 @@ Demo Link: https://chatfly.netlify.app/
 ![2023-04-16 (16)](https://user-images.githubusercontent.com/112883476/232309057-729437ff-a949-49f8-a59d-84f9125c8da7.png)
 ![2023-04-16 (18)](https://user-images.githubusercontent.com/112883476/232309103-f6a6fd5e-3374-4096-9c0b-c1fc7702efa7.png)
 
+![2023-04-19 (2)](https://user-images.githubusercontent.com/112883476/233090908-e294b967-ce87-4e2b-832a-5c41c828727c.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
